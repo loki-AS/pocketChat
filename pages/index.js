@@ -97,6 +97,7 @@ export default function Home({ messages }) {
                 )) : <NoResults />
               } 
               
+              
               <div ref={messageRef} /> 
 
               </div>

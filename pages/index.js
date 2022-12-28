@@ -101,7 +101,7 @@ export default function Home({ messages }) {
 
               </div>
 
-              <div className=''>
+              <div>
                 <input 
                 onChange={(e) => setMessage(e.target.value)}
                 type="text" 

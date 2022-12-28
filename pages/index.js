@@ -98,7 +98,6 @@ export default function Home({ messages }) {
               } 
               
               <div ref={messageRef} /> 
-
               </div>
 
               <div>
